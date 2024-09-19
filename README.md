@@ -21,6 +21,7 @@ For the record, I speak fluent German, ich könnte hier alles auch auf Deutsch s
   <img src="https://img.shields.io/badge/-Python-green?&style=for-the-badge&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-green?&style=for-the-badge&logo=Linux&logoColor=white" />
   <img src="https://img.shields.io/badge/-Powershell-green?&style=for-the-badge&logo=Powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript%20Basics-yellow?&style=for-the-badge&logo=JavaScript&logoColor=white" />
 </div>
 
 
@@ -28,11 +29,13 @@ For the record, I speak fluent German, ich könnte hier alles auch auf Deutsch s
 
 ## Penetration Testing
 <div>
-  <img src="https://img.shields.io/badge/-John%20the%20Ripper-orange?&style=for-the-badge&logo=John%20the%20Ripper&logoColor=white" />
   <img src="https://img.shields.io/badge/-Burp%20Suite-orange?&style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
   <img src="https://img.shields.io/badge/-Metasploit-red?&style=for-the-badge&logo=Metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Hydra-purple?&style=for-the-badge&logo=Hydra&logoColor=white" />
+  <img src="https://img.shields.io/badge/-John%20the%20Ripper-orange?&style=for-the-badge&logo=John%20the%20Ripper&logoColor=white" />
   <img src="https://img.shields.io/badge/-Nmap-orange?&style=for-the-badge&logo=Nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hydra-purple?&style=for-the-badge&logo=Hydra&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nessus-orange?&style=for-the-badge&logo=Nessus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ffuf-blue?&style=for-the-badge&logo=Go&logoColor=white" />
 </div>
 
 ### Network
@@ -51,7 +54,7 @@ For the record, I speak fluent German, ich könnte hier alles auch auf Deutsch s
 ### SIEM
 <div>
  
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 ## Certifications
@@ -64,6 +67,6 @@ For the record, I speak fluent German, ich könnte hier alles auch auf Deutsch s
 </div>
 
 ## Projects
-
+- <a href="https://github.com/lemonheee/boilerplate-port-scanner">Port Scanner</a>
 
 
