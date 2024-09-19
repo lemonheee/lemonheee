@@ -58,8 +58,6 @@ For the record, I speak fluent German, ich könnte hier alles auch auf Deutsch s
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity-blue?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy533cub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMzIgMzIiIHhtbGnsPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sIj48cGF0aCBkPSJNMTYgNyBMNiAxNi44MyAxNS4xNyAyMiAyNS42NyAxNi44MyAyNyAxNiAyNyAxNCAyMi4zMyAxNS44MyAxNiAzLjE3IDYgNy4xNyAxNi44MyAgWiIvPjwvc3ZnPg==&logoColor=white" />
 <img src="https://img.shields.io/badge/-TryHackMe%20Jr.%20Penetration%20Tester-green?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
 <img src="https://img.shields.io/badge/-TryHackMe%20Security%20Engineer-blue?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
